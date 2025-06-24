@@ -12,3 +12,11 @@ Clear result display with current conversion rate
 Input validation for better user experience
 
 Designed to be mobile-friendly and responsive
+
+#Technologies Used
+
+HTML for structure
+
+CSS for styling and layout
+
+JavaScript for logic and API handling
