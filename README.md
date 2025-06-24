@@ -13,7 +13,7 @@ Input validation for better user experience
 
 Designed to be mobile-friendly and responsive
 
-#Technologies Used
+Technologies Used
 
 HTML for structure
 
